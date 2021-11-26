@@ -458,7 +458,8 @@ case 'covid_word':
 
 ## ```coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/HilmyBot)
+- [`TRAKTEER`](https://trakteer.id/HilmyGaming87)
 
 ## ```Thnaks To```
 
